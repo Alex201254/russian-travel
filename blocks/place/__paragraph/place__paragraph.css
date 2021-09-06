@@ -1,6 +1,5 @@
  .place__paragraph {
   margin: 0;
-  margin-bottom: 25px;
   color: #fff;
   font-style:  normal;
   font-weight: 400;
@@ -12,6 +11,5 @@
   .place__paragraph {
   font-size: 16px;
   line-height: 1.6;
-  margin: 0 16px;
   }
 }
